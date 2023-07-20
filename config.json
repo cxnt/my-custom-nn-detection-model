@@ -14,7 +14,6 @@
     "icon_cover": true,
     "need_gpu": true,
     "headless": true,
-@@ -22,5 +22,5 @@
     "session_tags": [
       "deployed_nn"
   ],
