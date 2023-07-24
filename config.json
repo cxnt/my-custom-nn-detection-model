@@ -2,11 +2,11 @@
     "name": "Serve Custom Detection Model Template",
     "type": "app",
     "categories": [
-      "templates"
+        "templates"
     ],
     "main_script": "main.py",
     "description": "Template application to serve custom detection models",
-    "docker_image": "supervisely/base-py-sdk:latest",
+    "docker_image": "supervisely/base-py-sdk:6.72.78",
     "task_location": "application_sessions",
     "icon_background": "#FFFFFF",
     "icon": "https://github.com/supervisely-ecosystem/template-serve-nn-detection/releases/download/v0.0.1/icon.png",
@@ -14,7 +14,7 @@
     "need_gpu": true,
     "headless": true,
     "session_tags": [
-      "deployed_nn"
-  ],
+        "deployed_nn"
+    ],
     "poster": "https://github.com/supervisely-ecosystem/template-serve-nn-detection/releases/download/v0.0.1/poster.png"
 }
